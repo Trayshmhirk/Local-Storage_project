@@ -1,6 +1,5 @@
 ## Simple Local Storage Project using JavaScript
 ---
-___
 
 This is a basic Javascript project, dealing with **Local Storage**.
 
